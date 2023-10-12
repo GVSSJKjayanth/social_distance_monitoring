@@ -9,5 +9,6 @@ https://github.com/GVSSJKjayanth/social_distance_monitoring/assets/114913682/776
 output video
 
 
-https://github.com/GVSSJKjayanth/social_distance_monitoring/assets/114913682/4de032ae-06b5-475d-913c-537b543d4c0a
+
+https://github.com/GVSSJKjayanth/social_distance_monitoring/assets/114913682/5c223888-848d-4c09-aa01-d1bb9cdede1c
 
